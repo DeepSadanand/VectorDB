@@ -3,3 +3,7 @@ tiktoken
 openai
 chromadb
 unstructured 
+pinecone-client
+pypdf
+sentence-transformers
+--upgrade langchain-pinecone
